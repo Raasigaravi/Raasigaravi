@@ -1,20 +1,16 @@
-# Hi there, I'm Raasigaravi R 👋
+Hi there, I'm Raasigaravi R 
 
-**MCA Student @ VIT University** | Full-Stack Developer | AI/ML Engineer
-
----
-
-### 🚀 About Me
-
-- 🎓 Pursuing **Master of Computer Application** at VIT University, Vellore (2025–2027)
-- 🤖 Passionate about **Agentic AI**, MERN stack, and building production-ready applications
-- 🌱 Currently exploring **LLM Integration**, **AI Agents**, and **Cloud Deployment**
-- 📍 Based in Vellore, Tamil Nadu, India
-- 📫 Reach me at: **raasigaravi21@gmail.com**
+MCA Student @ VIT University** | Full-Stack Developer | AI/ML Engineer
 
 ---
+About Me
 
-### 🛠️ Tech Stack
+- Pursuing **Master of Computer Application** at VIT University, Vellore (2025–2027)
+- Passionate about **Agentic AI**, MERN stack, and building production-ready applications
+- Currently exploring **LLM Integration**, **AI Agents**, and **Cloud Deployment**
+
+---
+Tech Stack
 
 **Languages**
 
@@ -45,39 +41,29 @@
 
 ---
 
-### 📌 Featured Projects
+Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [🌪️ AI Disaster Prediction](https://github.com/Raasigaravi/ai-disaster-prediction) | Python · Streamlit · Scikit-learn | ML system classifying Flood/Cyclone/Drought risks into 3 severity tiers with ~87% accuracy |
-| [🩸 BloodConnect Platform](https://github.com/Raasigaravi/blood-donation-platform) | MERN · JWT · MongoDB | Secure blood donation management with blockchain-inspired data integrity & data mining analytics |
-| [🎓 Mark Calculator](https://github.com/Raasigaravi/mark-calculator) | Java · Swing | Desktop GPA calculator for 10 assessment components with 15+ validation rules |
-| [🔄 Skill Swap Hub](https://github.com/Raasigaravi/skill-swap-hub) | MERN · JWT | Real-time skill exchange platform with smart matching algorithm |
+| [AI Disaster Prediction](https://github.com/Raasigaravi/ai-disaster-prediction) | Python · Streamlit · Scikit-learn | ML system classifying Flood/Cyclone/Drought risks into 3 severity tiers with ~87% accuracy |
+| [BloodConnect Platform](https://github.com/Raasigaravi/blood-donation-platform) | MERN · JWT · MongoDB | Secure blood donation management with blockchain-inspired data integrity & data mining analytics |
+| [Mark Calculator](https://github.com/Raasigaravi/mark-calculator) | Java · Swing | Desktop GPA calculator for 10 assessment components with 15+ validation rules |
+| [Skill Swap Hub](https://github.com/Raasigaravi/skill-swap-hub) | MERN · JWT | Real-time skill exchange platform with smart matching algorithm |
+
+---
+ Certifications
+
+-  Data Analytics Using Power BI — TechTip24 (2025)
+-  Google Cloud Computing Foundations — Google Cloud (2024)
+-  Generative AI Fundamentals — Google / Coursera (2024)
+-  Robotics & IoT in Industry 5.0 — VIT International Workshop (2024)
 
 ---
 
-### 📜 Certifications
-
-- 🏅 Data Analytics Using Power BI — TechTip24 (2025)
-- ☁️ Google Cloud Computing Foundations — Google Cloud (2024)
-- 🤖 Generative AI Fundamentals — Google / Coursera (2024)
-- 🤖 Robotics & IoT in Industry 5.0 — VIT International Workshop (2024)
-
----
-
-### 📊 GitHub Stats
+ GitHub Stats
 
 ![Raasigaravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raasigaravi&show_icons=true&theme=default&hide_border=true&title_color=1B3A6B&icon_color=C62828)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raasigaravi&layout=compact&hide_border=true&title_color=1B3A6B)
-
----
-
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raasigaravi-r)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raasigaravi21@gmail.com)
-
----
 
 *"Build things, break things, learn everything."*
