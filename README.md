@@ -6,6 +6,7 @@ MCA Student @ VIT University** | Full-Stack Developer | AI/ML Engineer
 About Me
 
 - Pursuing **Master of Computer Application** at VIT University, Vellore (2025–2027)
+- Currrently working as an AI intern in BHEL
 - Passionate about **Agentic AI**, MERN stack, and building production-ready applications
 - Currently exploring **LLM Integration**, **AI Agents**, and **Cloud Deployment**
 
